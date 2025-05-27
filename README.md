@@ -111,5 +111,5 @@ A Vue.js-based admin dashboard for managing inventory, sales, and products.
 
 * * * * *
 
-Developed by Ali Raza
+Developed by Ali Raza (Candidate for opened Position)
 
