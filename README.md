@@ -16,59 +16,45 @@ A Vue.js-based admin dashboard for managing inventory, sales, and products.
 
 ### Installation
 
-1.  Clone the repository
+1.  Clone the repository by follwing below command
 
-    bash
-
-    Copy
-
-    Download
+```bash
 
     git clone https://github.com/your-repo/ecommerce-admin-dashboard.git
     cd ecommerce-admin-dashboard
+```
 
-2.  Install dependencies
+3.  Install dependencies
 
-    bash
-
-    Copy
-
-    Download
-
+ ```bash
     npm install
+```
 
-3.  Run the development server
+4.  Run the development server
 
-    bash
-
-    Copy
-
-    Download
-
+```bash
     npm run dev
+```
 
-4.  Open in browser\
+5.  Open in browser by clicking on below address
     Visit:
-
-    Copy
-
-    Download
-
+```bash
     http://localhost:5173
+```
 
 ### Dependencies
 
 -   Vue 3 (Frontend framework)
 
--   Pinia (State management)
+-   Pinia (used in State management)
 
--   Vue Router (Navigation)
+-   Vue Router (FOr Navigation)
 
 -   Chart.js (Data visualization)
 
 -   Heroicons (UI icons)
 
--   Tailwind CSS (Styling)
+-   Tailwind CSS (In Styling)
 
 * * * * *
 
@@ -101,7 +87,6 @@ A Vue.js-based admin dashboard for managing inventory, sales, and products.
 
     -   Upload product images.
 
-    -   Automatically updates inventory on submission.
 
 ### How to Use
 
@@ -126,7 +111,5 @@ A Vue.js-based admin dashboard for managing inventory, sales, and products.
 
 * * * * *
 
-Developed by [Your Name]\
-For educational/demo purposes
+Developed by Ali Raza
 
-*(This README was manually written to ensure originality.)*
