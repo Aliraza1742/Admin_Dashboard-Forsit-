@@ -111,5 +111,14 @@ A Vue.js-based admin dashboard for managing inventory, sales, and products.
 
 * * * * *
 
-Developed by Ali Raza (Candidate for opened Position)
+# 📸 Screenshot:
+
+### Landing Page (Revenue Analysis)
+
+(![image](https://github.com/user-attachments/assets/9874243b-f297-479b-9947-be2692d63aeb)
+
+
+### Inventory Page
+![image](https://github.com/user-attachments/assets/e688414b-d473-41c4-957c-a043ad686c35)
+
 
