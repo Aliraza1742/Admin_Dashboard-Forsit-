@@ -1,3 +1,4 @@
+
 export const inventoryData = [
   {
     id: 1,
@@ -6,7 +7,7 @@ export const inventoryData = [
     stock: 56,
     minStock: 20,
     category: "Electronics",
-    image: "/product-images/airpods-pro.jpg",
+    image: "/product-images/airpodpro.jpg",
     avgDailySales: 3
   },
   {
@@ -16,8 +17,8 @@ export const inventoryData = [
     stock: 12,
     minStock: 5,
     category: "Electronics",
-    image: "/product-images/qled-tv.jpg",
-    avgDailySales: 1
+    image: "/product-images/Samsung55-inchQLEDTV.jpg",
+    avgDailySales: 6
   },
   {
     id: 3,
@@ -26,7 +27,7 @@ export const inventoryData = [
     stock: 89,
     minStock: 30,
     category: "Clothing",
-    image: "/product-images/nike-shoes.jpg",
+    image: "/product-images/nikeruuningshoes.jpg",
     avgDailySales: 5
   },
   {
@@ -36,7 +37,7 @@ export const inventoryData = [
     stock: 34,
     minStock: 15,
     category: "Home & Kitchen",
-    image: "/product-images/instant-pot.jpg",
+    image: "/product-images/instantpot.jpg",
     avgDailySales: 4
   },
   {
@@ -46,7 +47,7 @@ export const inventoryData = [
     stock: 3,
     minStock: 10,
     category: "Toys",
-    image: "/product-images/lego-falcon.jpg",
+    image: "/product-images/legostarwar.jpg",
     avgDailySales: 1
   },
   {
@@ -56,7 +57,7 @@ export const inventoryData = [
     stock: 25,
     minStock: 10,
     category: "Electronics",
-    image: "/product-images/sony-headphones.jpg",
+    image: "/product-images/sonyheadset.jpg",
     avgDailySales: 2
   },
   {
@@ -66,7 +67,7 @@ export const inventoryData = [
     stock: 18,
     minStock: 8,
     category: "Electronics",
-    image: "/product-images/hp-laptop.jpg",
+    image: "/product-images/hppavilion.jpg",
     avgDailySales: 1
   },
   {
@@ -76,7 +77,7 @@ export const inventoryData = [
     stock: 47,
     minStock: 20,
     category: "Clothing",
-    image: "/product-images/adidas-jacket.jpg",
+    image: "/product-images/Adidasjacket.jpg",
     avgDailySales: 3
   },
   {
@@ -86,7 +87,7 @@ export const inventoryData = [
     stock: 39,
     minStock: 15,
     category: "Clothing",
-    image: "/product-images/levis-jeans.jpg",
+    image: "/product-images/leviwoman.jpg",
     avgDailySales: 2
   },
   {
@@ -96,7 +97,7 @@ export const inventoryData = [
     stock: 22,
     minStock: 10,
     category: "Home & Kitchen",
-    image: "/product-images/blender.jpg",
+    image: "/product-images/hamilton.jpg",
     avgDailySales: 2
   },
   {
@@ -106,7 +107,7 @@ export const inventoryData = [
     stock: 6,
     minStock: 3,
     category: "Home & Kitchen",
-    image: "/product-images/dyson-v11.jpg",
+    image: "/product-images/dysoncleaner.jpg",
     avgDailySales: 1
   },
   {
@@ -116,7 +117,7 @@ export const inventoryData = [
     stock: 8,
     minStock: 10,
     category: "Toys",
-    image: "/product-images/nerf-blaster.jpg",
+    image: "/product-images/nerfblaster.jpg",
     avgDailySales: 1
   },
   {
@@ -126,7 +127,7 @@ export const inventoryData = [
     stock: 4,
     minStock: 5,
     category: "Toys",
-    image: "/product-images/barbie-dollhouse.jpg",
+    image: "/product-images/barbiehouse.jpg",
     avgDailySales: 1
   },
   {
@@ -136,7 +137,7 @@ export const inventoryData = [
     stock: 50,
     minStock: 20,
     category: "Books",
-    image: "/product-images/atomic-habits.jpg",
+    image: "/product-images/atmoic.jpg",
     avgDailySales: 4
   },
   {
@@ -146,7 +147,7 @@ export const inventoryData = [
     stock: 38,
     minStock: 15,
     category: "Books",
-    image: "/product-images/psychology-of-money.jpg",
+    image: "/product-images/psychologyofmoney.jpg",
     avgDailySales: 3
   },
   {
@@ -156,7 +157,7 @@ export const inventoryData = [
     stock: 15,
     minStock: 5,
     category: "Sports",
-    image: "/product-images/wilson-racket.jpg",
+    image: "/product-images/wilsonracket.jpg",
     avgDailySales: 2
   },
   {
@@ -166,7 +167,7 @@ export const inventoryData = [
     stock: 30,
     minStock: 10,
     category: "Sports",
-    image: "/product-images/spalding-basketball.jpg",
+    image: "/product-images/spladingnba.jpg",
     avgDailySales: 3
   },
   {
@@ -176,7 +177,7 @@ export const inventoryData = [
     stock: 20,
     minStock: 10,
     category: "Electronics",
-    image: "/product-images/nest-mini.jpg",
+    image: "/product-images/nestmini.jpg",
     avgDailySales: 2
   },
   {
@@ -186,7 +187,7 @@ export const inventoryData = [
     stock: 14,
     minStock: 7,
     category: "Electronics",
-    image: "/product-images/galaxy-tab-a8.jpg",
+    image: "/product-images/samsungtab.jpg",
     avgDailySales: 1
   },
   {
@@ -196,7 +197,7 @@ export const inventoryData = [
     stock: 60,
     minStock: 25,
     category: "Clothing",
-    image: "/product-images/puma-sweatpants.jpg",
+    image: "/product-images/pumasweatpant.jpg",
     avgDailySales: 4
   },
   
@@ -207,7 +208,7 @@ export const inventoryData = [
     stock: 10,
     minStock: 4,
     category: "Sports",
-    image: "/product-images/dumbbell-set.jpg",
+    image: "/product-images/cosco.jpg",
     avgDailySales: 1
   }
 ];

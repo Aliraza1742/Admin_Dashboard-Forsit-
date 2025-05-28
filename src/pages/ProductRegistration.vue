@@ -395,7 +395,7 @@
 import { ref, computed } from 'vue'
 import { useRouter } from 'vue-router'
 import { useInventoryStore } from '../store/inventory'
-import { categories } from '../demodata/salesdata' // Update the path as needed
+import { categories } from '../demodata/salesdata' 
 import { 
   CameraIcon,
   ArrowUpTrayIcon,
