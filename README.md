@@ -111,7 +111,7 @@ A Vue.js-based admin dashboard for managing inventory, sales, and products.
 
 * * * * *
 
-# 📸 Screenshot:
+# Screenshot:
 
 ### Landing Page (Revenue Analysis)
 
